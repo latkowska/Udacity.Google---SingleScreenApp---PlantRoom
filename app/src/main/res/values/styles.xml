@@ -1,0 +1,28 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"></style>
+
+    <style name="Frame">
+        <item name="android:layout_margin">@dimen/frame_layout_margin</item>
+        <item name="android:background">@drawable/box</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="Logo">
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:padding">@dimen/logo_padding</item>
+        <item name="android:layout_margin">@dimen/logo_layout_margin</item>
+        <item name="android:textSize">@dimen/logo_textSize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+
+    <style name="Address">
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textSize">@dimen/logo_textSize</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:paddingTop">@dimen/address_paddingTop</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/address_layout_marginBottom</item>
+    </style>
+</resources>

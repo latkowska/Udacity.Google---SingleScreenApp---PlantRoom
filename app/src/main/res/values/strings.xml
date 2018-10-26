@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlantRoom</string>
+    <string name="Logo">PLANT.ROOM</string>
+    <string name="Address">Floristics Studio\n14/16 Dobra St.\nWarsaw\nPoland\n\n503 927 727</string>
+    <string name="Web">www.plantroom.pl</string>
+</resources>

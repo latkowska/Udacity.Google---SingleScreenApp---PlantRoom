@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginBottom">70dp</dimen>
+    <dimen name="box_width">2dp</dimen>
+    <dimen name="frame_layout_margin">12dp</dimen>
+    <dimen name="logo_padding">15dp</dimen>
+    <dimen name="logo_layout_margin">10dp</dimen>
+    <dimen name="logo_textSize">16sp</dimen>
+    <dimen name="address_textSize">16sp</dimen>
+    <dimen name="address_paddingTop">5dp</dimen>
+    <dimen name="address_layout_marginBottom">30dp</dimen>
+</resources>
